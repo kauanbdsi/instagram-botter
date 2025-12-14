@@ -1,4 +1,4 @@
-# instagram-botter (mejorado)
+# instagram-botter 
 
 Este repositorio contiene herramientas de automatización para acciones en Instagram. WARNING: El uso de estas herramientas puede violar los términos de servicio de Instagram. Úsalas con responsabilidad y en cuentas de prueba.
 
