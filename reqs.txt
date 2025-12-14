@@ -1,4 +1,6 @@
-color a 
-title Installing packages for instagram botter ...
-cls
-pip install instabot os version github owner instas instagram proxies colorama
+requests==2.31.0
+urllib3==2.0.4
+python-dotenv==1.0.0
+tqdm==4.65.0
+# Si decides usar una librería especializada para Instagram (recomendada):
+# instagrapi==1.19.0
