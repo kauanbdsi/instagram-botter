@@ -52,6 +52,3 @@ python main.py -t targets.txt -a follow --proxy "http://user:pass@proxy:port"
 - Incrementa tiempos entre acciones y limita la concurrencia.
 - Monitoriza códigos HTTP (429/403) y añade backoff más agresivo si aparecen.
 - Considera usar una librería mantenida (instagrapi) para flujos de autenticación y manejo de sesiones, captcha y cambios del API.
-
-## Contribuciones
-Si quieres que haga el PR con los cambios propuestos (main.py, reqs.txt, README), dime y lo creo.
